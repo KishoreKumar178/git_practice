@@ -7,3 +7,5 @@ a = int(input())
 b = int(input())
 add(a,b)
 sub(a,b)
+def mul(a,b):
+	return a*b
