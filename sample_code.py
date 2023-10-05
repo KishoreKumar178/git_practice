@@ -1,3 +1,4 @@
+Print("welcome to the new function")
 def add(a,b):
 	return a+b
 def sub(a,b):
